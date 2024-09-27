@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving real-world problems through technology.
 
-**🕵️ Open to new job opportunities as a fullstack or mobile app engineer.**
+**🕵️ Open to new job opportunities as a fullstack, mobile app or blockchain engineer.**
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -26,7 +26,10 @@ Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving 
 🌱 Always Learning
 I'm always excited to learn new technologies and tools to solve complex problems efficiently. My adaptability allows me to quickly pick up whatever is needed for a project.
 
-💻 Currently learning React-Native & Expo
+💻 Currently learning:
+- React-Native/Expo
+- Solidity
+- Smart contract development on Ethereum
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
