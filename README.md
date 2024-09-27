@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving real-world problems through technology.
 
-**🕵️ Open to new job opportunities as a fullstack, mobile app or blockchain engineer.**
+**🕵️ Open to new job opportunities as a fullstack mobile/web app or blockchain engineer.**
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
