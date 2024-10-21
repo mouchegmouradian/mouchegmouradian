@@ -24,6 +24,7 @@ Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 
 🌱 Always Learning
+
 I'm always excited to learn new technologies and tools to solve complex problems efficiently. My adaptability allows me to quickly pick up whatever is needed for a project.
 
 💻 Currently learning:
