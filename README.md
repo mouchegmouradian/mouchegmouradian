@@ -28,10 +28,15 @@ Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving 
 
 I'm always excited to learn new technologies and tools to solve complex problems efficiently. My adaptability allows me to quickly pick up whatever is needed for a project.
 
-💻 Currently learning:
-- React-Native/Expo
+💻 Currently learning
+- Flutter
 - Solidity
-- Smart contract development on Ethereum
+- Smart contract development on Ethereum & Solana
+
+🔭 I’m currently working on
+
+- (Main) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
+- (Side) A SaaS platform for companies that do on-site interventions and need to track clients, workforce, revenue...
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
