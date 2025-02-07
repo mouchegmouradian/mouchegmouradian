@@ -35,8 +35,8 @@ I'm always excited to learn new technologies and tools to solve complex problems
 
 🔭 I’m currently working on
 
-- (Main) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
-- (Side) A SaaS platform for companies that do on-site interventions and need to track clients, workforce, revenue...
+- (Day) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
+- (Night) A cool project in Defi on Ethereum...coming soon
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
