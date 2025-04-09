@@ -1,21 +1,7 @@
-<!--
-**mouchegmouradian/mouchegmouradian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving real-world problems through technology.
 
 **🕵️ Open to new job opportunities as a fullstack mobile/web app or blockchain engineer.**
+** Mainly interested in Fintech/Blockchain but open to discuss anything. **
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=a69def)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=a69def)
@@ -31,12 +17,13 @@ I'm always excited to learn new technologies and tools to solve complex problems
 💻 Currently learning
 - Flutter
 - Solidity
-- Smart contract development on Ethereum & Solana
+- Web3
+- Smart contracts
 
 🔭 I’m currently working on
 
 - (Day) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
-- (Night) A cool project in Defi on Ethereum...coming soon
+- (Night) A cool project combining crypto portfolio mangement, Defi... coming soon(ish)
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
