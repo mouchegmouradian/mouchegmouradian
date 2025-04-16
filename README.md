@@ -1,7 +1,8 @@
-Hi there 👋, I'm Moucheg, a passionate Software Engineer dedicated to solving real-world problems through technology.
+I build clean, animated, cross-platform products that bring data to life — with a focus on real-time UX, visual clarity, and product value.
+Fluent in Flutter, iOS/Android, web/SaaS, and backend — with a product mindset that goes beyond the code.
 
 **🕵️ Open to new job opportunities as a fullstack mobile/web app or blockchain engineer.**
-** Mainly interested in Fintech/Blockchain but open to discuss anything. **
+** Mainly interested in Fintech/Blockchain (and nature) but open to discuss anything. **
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=a69def)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=a69def)
@@ -23,7 +24,8 @@ I'm always excited to learn new technologies and tools to solve complex problems
 🔭 I’m currently working on
 
 - (Day) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
-- (Night) A cool project combining crypto portfolio mangement, Defi... coming soon(ish)
+- (Side 1) A beautiful cross platform chart library (will open source once alpha is done)
+- (Side 2) A cool project combining crypto portfolio mangement, Defi... coming soon(ish)
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
