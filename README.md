@@ -24,8 +24,10 @@ I'm always excited to learn new technologies and tools to solve complex problems
 🔭 I’m currently working on
 
 - (Day) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
+
 - (Side 1) A beautiful cross platform chart library (will open source once alpha is done)
-- (Side 2) A cool project combining crypto portfolio mangement, Defi... coming soon(ish)
+- (Side 2) A desktop app for tagging, organizing and quickly searching media files
+- (Side 3) A cool project combining crypto portfolio mangement, Defi... coming soon(ish)
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
 
