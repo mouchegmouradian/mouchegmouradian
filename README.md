@@ -4,11 +4,11 @@ Fluent in Swift, Flutter, iOS/Android, web/SaaS, and backend — with a product 
 **🕵️ Open to new job opportunities as a fullstack mobile/web app or blockchain engineer.**
 ** Mainly interested in Fintech/Blockchain (and nature) but open to discuss anything. **
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=a69def)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=a69def)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=a69def)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=a69def)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=a69def)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=227C70)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=227C70)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=227C70)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=227C70)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=227C70)
 
 🌱 Always Learning
 
