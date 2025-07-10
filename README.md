@@ -1,29 +1,25 @@
 I build clean, animated, cross-platform products that bring data to life — with a focus on real-time UX, visual clarity, and product value.
-Fluent in Swift, Flutter, iOS/Android, web/SaaS, and backend — with a product mindset that goes beyond the code.
+Fluent in Swift(iOS), Flutter, React-Native — with a product mindset that goes beyond the code.
 
-**🕵️ Open to new job opportunities as a fullstack mobile/web app or blockchain engineer.**
-** Mainly interested in Fintech/Blockchain (and nature) but open to discuss anything. **
+**🕵️ Open to new job opportunities as a mobile app engineer.**
+** Mainly interested in Fintech/Blockchain (and nature) but open to discuss anything if the project is interesting. **
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=227C70)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=227C70)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=227C70)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=227C70)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=227C70)
+
+![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
 
 🌱 Always Learning
 
 I'm always excited to learn new technologies and tools to solve complex problems efficiently. My adaptability allows me to quickly pick up whatever is needed for a project.
 
-💻 Currently learning
+💻 CUrrently working with/on
+- React Native
 - Flutter
-- Solidity
+- AI Agent developement and better prompting
 - Web3
-- Smart contracts
-
-🔭 I’m currently working on
-
-- (Day) Mobile app that connects to Ble enabled devices, collects data and show various custom made charts
-- (Side) A beautiful cross platform chart library (will open source once alpha is done)
 
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
