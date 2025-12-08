@@ -1,17 +1,18 @@
 I build cross-platform products that improve productivity and solve real problems. Experienced in iOS, Flutter, React Native, Next.js and TypeScript, and now expanding into AI-powered tools and early agent workflows.
 
-**🕵️ Open to new job opportunities as a mobile app engineer.**
+**🕵️ Open to new job opportunities**
+
 Primarily interested in roles that mix product building with AI. I am open to Fintech, tooling, productivity space and anything that involves solving real problems with clean, thoughtful engineering.
 
 
 🌱 Always Learning
+
 I enjoy learning new technologies and adapting fast to project needs. Recently I have been deepening my skills in prompt engineering, LLM integration and agent-style workflows.
 
 💻 Currently working with/on
-- React Native
-- Next.js / React / Typescript
+- Next.js / React / Typescript / React Native...
 - AI powered tools and early agent development
-- Prompt design and LLM integration
+- Prompt engineering and LLM integration
 
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
