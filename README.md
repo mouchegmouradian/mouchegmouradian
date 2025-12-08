@@ -1,25 +1,17 @@
-I build clean, animated, cross-platform products that bring data to life — with a focus on real-time UX, visual clarity, and product value.
-Fluent in Swift(iOS), Flutter, React-Native — with a product mindset that goes beyond the code.
+I build cross-platform products that improve productivity and solve real problems. Experienced in iOS, Flutter, React Native, Next.js and TypeScript, and now expanding into AI-powered tools and early agent workflows.
 
 **🕵️ Open to new job opportunities as a mobile app engineer.**
-** Mainly interested in Fintech/Blockchain (and nature) but open to discuss anything if the project is interesting. **
+Primarily interested in roles that mix product building with AI. I am open to Fintech, tooling, productivity space and anything that involves solving real problems with clean, thoughtful engineering.
 
-
-![](https://img.shields.io/badge/React%20Native-informational?style=flat&logo=react&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
-![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
-![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=%23ffffff&labelColor=%230090c7&color=E91E63)
 
 🌱 Always Learning
+I enjoy learning new technologies and adapting fast to project needs. Recently I have been deepening my skills in prompt engineering, LLM integration and agent-style workflows.
 
-I'm always excited to learn new technologies and tools to solve complex problems efficiently. My adaptability allows me to quickly pick up whatever is needed for a project.
-
-💻 CUrrently working with/on
+💻 Currently working with/on
 - React Native
-- Flutter
-- AI Agent developement and better prompting
-- Web3
+- Next.js / React / Typescript
+- AI powered tools and early agent development
+- Prompt design and LLM integration
 
 
 💬 Ask me anything about Software Engineering, Startups, Korea or Trees
