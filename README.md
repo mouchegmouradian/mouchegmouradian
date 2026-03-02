@@ -10,13 +10,15 @@ Primarily interested in roles that mix product building with AI. I am open to Fi
 I enjoy learning new technologies and adapting fast to project needs. Recently I have been deepening my skills in prompt engineering, LLM integration and agent-style workflows.
 
 💻 Currently working with/on
+- iOS/Android apps with Swift, SwiftUI, Kotlin & Jetpack Compose
+- On-device AI models
+- Building a library of (Claude) Skills to enhance what AI coding agents can do. Check it out here: [Skills Library](https://github.com/mouchegmouradian/claude-code-skills) 
+
+
+- 💻 Recently worked with/on
 - Next.js / React / Typescript / React Native...
 - AI powered tools and early agent development
 - Prompt engineering and LLM integration
 
 
-💬 Ask me anything about Software Engineering, Startups, Korea or Trees
-
 📫 How to reach me: - LinkedIn: [Moucheg Mouradian](https://www.linkedin.com/in/mouchegmouradian/)
-
-⚡ Fun fact: I can build a house 🏠 from scratch on my own. Oh and I really like trees 🌳
