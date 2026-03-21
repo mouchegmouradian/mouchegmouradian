@@ -1,4 +1,4 @@
-I build cross-platform products that improve productivity and solve real problems. Experienced in iOS, Flutter, React Native, Next.js and TypeScript, and now expanding into AI-powered tools and early agent workflows.
+I build cross-platform products that improve productivity and solve real problems. Experienced in iOS, Android, Flutter, Next.js and TypeScript, and more and more focused on delegating work to AI by building skills to guide agents into doing the work properly.
 
 **🕵️ Open to new job opportunities**
 
