@@ -1,6 +1,6 @@
 # Hi, I'm Moucheg 👋
 
-Product Software Engineer building SaaS, AI-powered products, developer tooling, and mobile applications.
+Product Software Engineer building SaaS platforms, AI-powered products, browser extensions, developer tooling, and mobile applications.
 
 Experienced in taking products from idea to production across web, mobile, and AI-driven systems.
 
@@ -27,6 +27,8 @@ A growing collection of reusable skills, workflows, and best practices that impr
 **Backend:** Node.js, MongoDB, PostgreSQL, Firebase, AWS, REST APIs
 
 **AI:** Claude API, OpenAI API, Vercel AI SDK, On-device models (Zetic), Prompt Engineering, Agent Workflows
+
+**Browser Extensions:** WXT, Chrome Extensions, Firefox Extensions, Safari Extensions
 
 ## 📫 Connect
 
