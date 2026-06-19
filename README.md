@@ -1,34 +1,16 @@
 # Hi, I'm Moucheg 👋
 
-I build products that solve real problems.
+Product Software Engineer building SaaS, AI-powered products, developer tooling, and mobile applications.
 
-My background spans mobile, web, AI, and startup environments, with experience taking products from idea to production. I enjoy working close to users, understanding workflows, and building solutions that create measurable value.
-
-Recently, I've been focusing on AI-assisted development, agent workflows, and building software that helps people work more effectively.
-
----
-
-## 🕵️ Open to New Opportunities
-
-I'm primarily interested in roles that combine product development, AI, and customer problem-solving, including:
-
-* Product Software Engineer
-* Technical Product Lead
-* Forward Deployed Engineer
-* Solutions Engineer
-* AI Product Engineer
-
-Particularly interested in SaaS, fintech, developer tooling, productivity software, and AI-powered products.
-
----
+Experienced in taking products from idea to production across web, mobile, and AI-driven systems.
 
 ## 🚀 Current Projects
 
 ### SnapFocus
 
-Browser extension that helps users stay focused on their work by blocking distractions intelligently.
+AI-powered browser extension that helps users stay focused by blocking distractions intelligently.
 
-Unlike traditional website blockers, SnapFocus combines user-defined rules with AI-powered page analysis to determine whether a website or specific page is relevant to the task being worked on.
+Combines user-defined rules with real-time page analysis to determine whether websites and content are relevant to the current task.
 
 🔗 https://snapfocus.app
 
@@ -38,78 +20,13 @@ A growing collection of reusable skills, workflows, and best practices that impr
 
 🔗 https://github.com/mouchegmouradian/claude-code-skills
 
----
-
-## 🧠 AI & Automation
-
-Recently focused on:
-
-* LLM integrations (Claude, GPT and other models)
-* Agent workflows and AI-assisted software development
-* Prompt engineering and structured AI outputs
-* Building reusable systems that improve AI reliability
-* Exploring on-device AI models and local inference
-
----
-
-## 🏗️ Product Builder Mindset
-
-Outside of work, I regularly build and experiment with new products.
-
-Projects have included:
-
-* Productivity tools
-* Browser extensions
-* AI-powered applications
-* Job search and career tools
-* Mobile applications
-* Internal automation systems
-
-Many remain private, experimental, or in active development, but they help me rapidly validate ideas, learn new technologies, and stay close to real user problems.
-
----
-
 ## 💻 Technologies
 
-### Frontend
+**Frontend:** React, Next.js, TypeScript, Flutter, SwiftUI, Jetpack Compose
 
-* React
-* Next.js
-* TypeScript
-* Flutter
-* SwiftUI
-* Jetpack Compose
+**Backend:** Node.js, MongoDB, PostgreSQL, Firebase, AWS, REST APIs
 
-### Backend & Infrastructure
-
-* Node.js
-* REST APIs
-* MongoDB
-* PostgreSQL
-* Firebase
-* AWS
-
-### AI
-
-* Claude API
-* OpenAI API
-* Vercel AI SDK
-* On-Device models (with Zetic)
-* Prompt Engineering
-* Agent Workflows
-* Structured Outputs
-
----
-
-## 🌱 Currently Exploring
-
-* AI-native product development
-* Human-AI collaboration patterns
-* Agentic systems
-* Developer tooling
-* Productivity software
-
----
+**AI:** Claude API, OpenAI API, Vercel AI SDK, On-device models (Zetic), Prompt Engineering, Agent Workflows
 
 ## 📫 Connect
 
